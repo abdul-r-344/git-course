@@ -1,1 +1,3 @@
 get the user code....
+
+get an avatar for user 
